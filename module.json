@@ -1,0 +1,11 @@
+{
+	"modules":[
+		{
+			"name":"Quotes",
+			"path":"quotes.py"
+		},{
+			"name":"Hal",
+			"path":"hal.py"
+		}
+	]
+}
